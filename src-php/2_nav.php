@@ -190,6 +190,9 @@
 										<li class="usa-nav__submenu-item">
 											<a href="sample-pages-faq.html">FAQ</a>
 										</li>
+										<li class="usa-nav__submenu-item">
+											<a href="sample-pages-services.php">Services</a>
+										</li>
 									</ul>
 								</div>
 							</div>

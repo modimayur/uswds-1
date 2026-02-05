@@ -16,7 +16,7 @@
                 </li>
                 <li
                     class="tablet:grid-col-auto desktop:grid-col-auto usa-footer__primary-content">
-                    <a class="usa-footer__primary-link text-white" href="#">Services</a>
+                    <a class="usa-footer__primary-link text-white" href="sample-pages-services.php">Services</a>
                 </li>
                 <li
                     class="tablet:grid-col-auto desktop:grid-col-auto usa-footer__primary-content">
